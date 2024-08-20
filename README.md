@@ -1,6 +1,3 @@
-
-Aqui está um README simples para o seu projeto Java de agenda:
-
 Projeto de Agenda de Contatos
 Este projeto é uma aplicação de console em Java que permite gerenciar uma agenda de contatos. A aplicação oferece várias funcionalidades para adicionar, exibir, buscar, editar, remover e gerenciar contatos favoritos.
 
